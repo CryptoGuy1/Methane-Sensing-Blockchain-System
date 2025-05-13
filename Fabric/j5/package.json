@@ -1,0 +1,19 @@
+{
+  "name": "j5",
+  "version": "1.0.0",
+  "main": "johnny5.js",
+  "scripts": {
+    "start:johnny": "node johnny5.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperledger/fabric-gateway": "^1.5.1",
+    "fabric-ca-client": "^2.2.20",
+    "fabric-network": "^2.2.20",
+    "johnny-five": "^2.1.0"
+  },
+  "description": ""
+}
